@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 def sumDiff(x, y):
-    return x + y - x - y
-print(subDiff(9, 6))
+    print(x + y - x - y)
+sumDiff(6, 9)
